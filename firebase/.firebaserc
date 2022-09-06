@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "staging": "flutter-vikings-satging",
+    "production": "fluttervikings-2ae70"
+  },
+  "targets": {},
+  "etags": {}
+}
